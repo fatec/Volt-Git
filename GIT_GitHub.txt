@@ -74,10 +74,11 @@
 La terminologie:
 Push
 Pull
-Branch
+Branch -> creer une autre ramification pour ajouter une fonctionnalité
 Merge -> 
 Fork -> copie personnelle d'un projet
 Pull Request -> proposition d'amélioration au projet initial
+
 
 
 
