@@ -32,8 +32,10 @@
 - Un Réseau Social
 	- profil
 	- projets
-	- connections avec d'autres personnes (suivre leur travail, être suivi par d'autres)
+	- connections avec d'autres personnes (suivre leur travail, suivre des gens, être suivi par d'autres)
 	- parfait pour collaborer sur un projet (pas forcement du code ou un programme)
+	- proposer des améliorations
+	- signaler des bugs
 
 
 
@@ -44,6 +46,11 @@
 #########
 - https://help.github.com/articles/set-up-git/
 
+- installer git
+- cloner le projet
+- faire des modifications
+
+
 - Créer un répository
 - Fork un répository
 - Collaborer
@@ -53,5 +60,7 @@ La terminologie:
 Push
 Pull
 Branch
-Merge
+Merge -> 
+Fork -> copie personnelle d'un projet
+Pull Request -> proposition d'amélioration au projet initial
 
