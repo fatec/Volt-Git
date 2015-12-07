@@ -54,7 +54,11 @@
 
 - Créer un répository
 - Fork un répository
+	- se connecter a son compte github
+	- naviger jusque la page du projet
+	- cliquer fork
 - Collaborer
+	
 
 
 La terminologie:
