@@ -49,6 +49,7 @@
 - installer git
 - cloner le projet
 - faire des modifications
+- Je rajoute ca ici
 
 
 - Créer un répository
