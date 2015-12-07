@@ -1,0 +1,57 @@
+#########
+#
+#  GIT
+#
+#########
+- Pourquoi?
+
+	- lorsque l'on travaille sur des documents sensibles, on les renomment en 
+			monfichier.sauvegarde
+			monfichier.sauvegarde2
+			monfichier.sauvegarde-6-decembre
+	-> C'est vite compliqué
+
+-> Solution : Systeme de Contrôle de Version
+	Distributed Version Control System
+
+	Version Control
+		- revenir a une version précédente du projet
+		- voir les différences entre 2 versions
+	Distribué / Décentralisé
+		- récupérer les dernières modifications
+		- envoyer ses modifications
+		- gérer les conflits
+		- garder un historique
+
+
+#########
+#
+#  GitHub
+#
+#########
+- Un Réseau Social
+	- profil
+	- projets
+	- connections avec d'autres personnes (suivre leur travail, être suivi par d'autres)
+	- parfait pour collaborer sur un projet (pas forcement du code ou un programme)
+
+
+
+#########
+#
+#  On essaie
+#
+#########
+- https://help.github.com/articles/set-up-git/
+
+- Créer un répository
+- Fork un répository
+- Collaborer
+
+
+La terminologie:
+Push
+Pull
+Branch
+Merge
+
