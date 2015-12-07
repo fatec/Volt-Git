@@ -64,6 +64,11 @@
 	- accepter un pull request
 
 
+- Créer une branche
+	- en ligne de commande ou avec github desktop
+	- faire les modifications
+	- puis merge
+
 
 
 La terminologie:
