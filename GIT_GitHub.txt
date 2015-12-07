@@ -64,13 +64,18 @@
 	- accepter un pull request
 
 
+- Créer une branche
+	- en ligne de commande ou avec github desktop
+	- faire les modifications
+	- puis merge
+
 
 
 La terminologie:
-Push
-Pull
+Push -> envoyer ses modifications
+Pull -> récupérer les modifications
 Branch -> creer une autre ramification pour ajouter une fonctionnalité
-Merge -> 
+Merge -> ajoute les modifications ensemble. Cela se fait automatiquement sauf en cas de conflit
 Fork -> copie personnelle d'un projet
 Pull Request -> proposition d'amélioration au projet initial
 
