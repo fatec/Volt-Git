@@ -47,7 +47,7 @@
 - https://help.github.com/articles/set-up-git/
 
 - installer git
-- cloner le projet
+- cloner un projet
 - faire des modifications
 - Je rajoute ca ici
 
