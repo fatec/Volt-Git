@@ -51,17 +51,9 @@
 - faire des modifications
 	- git add fichiers modifiés
 	- git commit -m "un commentaire explicite"
-
-
-
-- Créer un répository
-- Fork un répository
-	- se connecter a son compte github
-	- naviger jusque la page du projet
-	- cliquer fork
-- Collaborer
-	- faire un pull request
-	- accepter un pull request
+- regarder ce qui a changé
+	- git status
+	- git log
 
 
 - Créer une branche
@@ -72,6 +64,18 @@
 		- faire compare et selectionner votre branche
 		- puis update from votre branche
 
+
+- Créer un répository
+- Fork un répository
+	- se connecter a son compte github
+	- naviger jusque la page du projet
+	- cliquer fork
+
+	
+- Collaborer
+	- faire un pull request
+	- accepter un pull request
+	- on peut ajouter des contributeurs a notre projet pour qu'ils soient capable de push directement
 
 
 
