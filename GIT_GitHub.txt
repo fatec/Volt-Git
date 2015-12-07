@@ -49,7 +49,9 @@
 - installer git
 - cloner un projet
 - faire des modifications
-- Je rajoute ca ici
+	- git add fichiers modifiés
+	- git commit -m "un commentaire explicite"
+
 
 
 - Créer un répository
@@ -58,7 +60,10 @@
 	- naviger jusque la page du projet
 	- cliquer fork
 - Collaborer
-	
+	- faire un pull request
+	- accepter un pull request
+
+
 
 
 La terminologie:
@@ -68,4 +73,6 @@ Branch
 Merge -> 
 Fork -> copie personnelle d'un projet
 Pull Request -> proposition d'amélioration au projet initial
+
+
 
