@@ -66,8 +66,12 @@
 
 - Créer une branche
 	- en ligne de commande ou avec github desktop
-	- faire les modifications
-	- puis merge
+	- faire les modifications et commit
+	- puis ajouter les modifications de cette branche a une autre:
+		- selectionner la branche a laquelle ou veux ajouter
+		- faire compare
+		- puis update from votre branche
+
 
 
 
