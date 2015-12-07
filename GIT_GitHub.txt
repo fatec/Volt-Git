@@ -69,7 +69,7 @@
 	- faire les modifications et commit
 	- puis ajouter les modifications de cette branche a une autre:
 		- selectionner la branche a laquelle ou veux ajouter
-		- faire compare
+		- faire compare et selectionner votre branche
 		- puis update from votre branche
 
 
