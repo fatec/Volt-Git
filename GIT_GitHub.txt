@@ -5,7 +5,7 @@
 #########
 - Pourquoi?
 
-	- lorsque l'on travaille sur des documents sensibles, on les renomment en 
+	- lorsque l'on travaille sur des documents sensibles, on les renomme en 
 			monfichier.sauvegarde
 			monfichier.sauvegarde2
 			monfichier.sauvegarde-6-decembre
